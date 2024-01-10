@@ -1,0 +1,14 @@
+C:\Users\andrei\source\repos\Learn\Learn\bin\Debug\net7.0\Learn.exe
+C:\Users\andrei\source\repos\Learn\Learn\bin\Debug\net7.0\Learn.deps.json
+C:\Users\andrei\source\repos\Learn\Learn\bin\Debug\net7.0\Learn.runtimeconfig.json
+C:\Users\andrei\source\repos\Learn\Learn\bin\Debug\net7.0\Learn.dll
+C:\Users\andrei\source\repos\Learn\Learn\bin\Debug\net7.0\Learn.pdb
+C:\Users\andrei\source\repos\Learn\Learn\obj\Debug\net7.0\Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrei\source\repos\Learn\Learn\obj\Debug\net7.0\Learn.AssemblyInfoInputs.cache
+C:\Users\andrei\source\repos\Learn\Learn\obj\Debug\net7.0\Learn.AssemblyInfo.cs
+C:\Users\andrei\source\repos\Learn\Learn\obj\Debug\net7.0\Learn.csproj.CoreCompileInputs.cache
+C:\Users\andrei\source\repos\Learn\Learn\obj\Debug\net7.0\Learn.dll
+C:\Users\andrei\source\repos\Learn\Learn\obj\Debug\net7.0\refint\Learn.dll
+C:\Users\andrei\source\repos\Learn\Learn\obj\Debug\net7.0\Learn.pdb
+C:\Users\andrei\source\repos\Learn\Learn\obj\Debug\net7.0\Learn.genruntimeconfig.cache
+C:\Users\andrei\source\repos\Learn\Learn\obj\Debug\net7.0\ref\Learn.dll
